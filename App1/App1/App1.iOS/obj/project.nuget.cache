@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "/84PSkhOneDJ/nxbS6cZ/igQtQFevDtghw62HUzWFaVaMc0Eu1YGFj/pGgwdqvOOFC5aadfrSfyUk9bHccZ82A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad Jawad\\source\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.common\\5.7.0\\nuget.common.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.configuration\\5.7.0\\nuget.configuration.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.frameworks\\5.7.0\\nuget.frameworks.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.packaging\\5.7.0\\nuget.packaging.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.protocol\\5.7.0\\nuget.protocol.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\nuget.versioning\\5.7.0\\nuget.versioning.5.7.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.3\\sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.diagnostics.process\\4.3.0\\system.diagnostics.process.4.3.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0-preview.3.20214.6\\system.security.cryptography.cng.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0-preview.3.20214.6\\system.security.cryptography.pkcs.5.0.0-preview.3.20214.6.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.3.0\\system.security.cryptography.protecteddata.4.3.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

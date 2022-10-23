@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Form Paractice</title>
+    <style>
+        #blink {
+            animation: blinkingText 1.2s infinite;
+            font-size: 40px;
+            color: antiquewhite;
+        }
+        @keyframes blinkingText {
+            0% {
+                color: #000;
+            }
+
+            49% {
+                color: #000;
+            }
+
+            60% {
+                color: transparent;
+            }
+
+            99% {
+                color: transparent;
+            }
+
+            100% {
+                color: #000;
+            }
+        }
+    </style>
+</head>
+<body>
+<!--
+    Form tag attribute
+    method: GET, POST
+    action
+    name
+Common Elements in Form
+    TextBox
+    Password Field
+    Hidden Field
+    Check Box
+    Radio Button
+    Select List
+    Submit Button
+    Reset Button
+-->
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            
+            <p id="blink">Name:</p>
+            <br>
+                <input type="password" placeholder="Enter Password" required readonly /><br />
+                Email:<br>
+                <input type="text" placeholder="Enter Your Email" required autocomplete pattern="[a-zA-Z1-9]+@[a-zA-Z]+\.[a-zA-Z]" /><br />
+                Password:<br>
+                <input type="password" placeholder="Enter Password" required readonly /><br />
+                <input type="hidden" value="secret" />
+                <br />
+                Select Language:<br />
+                <input type="checkbox" value="CheckBox" /> C++  <br />
+                <input type="checkbox" value="CheckBox" />Java<br />
+                <input type="checkbox" value="CheckBox" />C#<br />
+                <input type="checkbox" value="CheckBox" />Python<br />
+                <input type="checkbox" value="CheckBox" checked="checked" />Kotlin<br />
+                <input type="checkbox" value="CheckBox" />JavaScript <br />
+                <input type="checkbox" value="CheckBox" />PHP <br />
+                <input type="checkbox" value="CheckBox" /> SQL<br />
+                Your Gender:<br />
+                Yes: <input type="radio" />&nbsp;&nbsp;No: <input type="radio" /><br />
+
+                <select>
+                    <option>Lahore</option>
+                    <option>Islamabad</option>
+                    <option>Karachi</option>
+                    <option>Quetta</option>
+                </select><br />
+
+                <input type=“text” list=“colors”>
+
+                <datalist id=“colors”>
+
+                    <option>Red</option>
+
+                    <option>Green</option>
+                    <option>Black</option>
+
+                </datalist><br />
+                <input type="color">
+                Upload File:<input type="file" disabled required /><br />
+                <textarea rows="5" cols="7">
+    
+            </textarea><br /><br />
+                <input type="reset" /><br />
+                <button>Submit</button>
+</fieldset>
+    </form>
+
+</body>
+</html>

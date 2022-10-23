@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\bin\Debug\ImageUploading.exe.config
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\bin\Debug\ImageUploading.exe
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\bin\Debug\ImageUploading.pdb
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.exe
+C:\Users\Muhammad Jawad\source\repos\ImageUploading\ImageUploading\obj\Debug\ImageUploading.pdb

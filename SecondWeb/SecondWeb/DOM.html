@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script language="javascript">
+
+        function getValue() {
+            var a = document.getElementById("pic");
+            alert(a.title)
+        }
+        function getValuePara() {
+            var a = document.getElementById("para");
+            alert(a.innerHTML)
+        }
+        function getImgSrc() {
+            var a = document.getElementById("pic");
+            alert(a.getAttribute("src"))
+        }
+
+        function setImgHeight() {
+            var a = document.getElementById("pic");
+            a.setAttribute("height","90")
+        }
+      
+    </script>
+</head>
+<body>
+    <img src="img/logo.png" id="pic" height="100" title="My Logo" onclick="getValue()"/>
+   
+         <p id="para" onclick="getValuePara()">Paragraph</p>
+    <button ondblclick="getImgSrc()">GEt Image Source</button>
+    <button onclick="setImgHeight()">Set Image Height</button>
+</body>
+</html>

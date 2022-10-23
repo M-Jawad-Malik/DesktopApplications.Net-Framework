@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var stu = ViewBag.student;
+}
+<html>
+<head>Student Data</head>
+<body>
+<br/>
+<br />
+<table style="text-align:center;font-size:20px;">
+    <tr>
+        
+        <td><b>Student ID:</b></td>
+        <td>@stu.StudentID</td>
+    </tr>
+    <tr>
+        <td><b>Name:</b></td>
+        <td>@stu.Name</td>
+    </tr>
+    <tr>
+       <td><b>Gender:</b></td>
+        <td>@stu.Gender</td>
+    </tr>
+    <tr>
+      <td><b>Branch:</b></td>
+        <td>@stu.Branch</td>
+    </tr>
+    <tr>
+          <td><b>Section:</b></td>
+        <td>@stu.Section</td>
+    </tr>
+
+</table>
+</body>
+
+</html>
+

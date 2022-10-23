@@ -1,0 +1,11 @@
+import numpy as np
+# arr=np.array([1,2,3,4,5,6,7,8,9])
+# arr1=np.array_split(arr,3)
+# print(arr1)
+# print(arr1[0])
+# arr=np.array([  [1,2],[4,5],[11,12],[14,15] ])
+# arr1=np.array_split(arr,4)
+# print(arr1)
+# print(arr1[1])
+arr=np.array(['I am a student'])
+print(arr[0][7])

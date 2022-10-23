@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\bin\Debug\RadioBtnApp.exe.config
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\bin\Debug\RadioBtnApp.exe
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\bin\Debug\RadioBtnApp.pdb
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.exe
+C:\Users\Muhammad Jawad\source\repos\RadioBtnApp\RadioBtnApp\obj\Debug\RadioBtnApp.pdb

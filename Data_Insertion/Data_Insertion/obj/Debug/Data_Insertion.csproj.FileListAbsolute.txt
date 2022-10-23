@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\bin\Debug\Data_Insertion.exe.config
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\bin\Debug\Data_Insertion.exe
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\bin\Debug\Data_Insertion.pdb
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.exe
+C:\Users\Muhammad Jawad\source\repos\Data_Insertion\Data_Insertion\obj\Debug\Data_Insertion.pdb

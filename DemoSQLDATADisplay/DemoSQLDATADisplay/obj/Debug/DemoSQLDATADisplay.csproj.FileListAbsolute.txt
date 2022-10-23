@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\bin\Debug\DemoSQLDATADisplay.exe.config
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\bin\Debug\DemoSQLDATADisplay.exe
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\bin\Debug\DemoSQLDATADisplay.pdb
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.exe
+C:\Users\Muhammad Jawad\source\repos\DemoSQLDATADisplay\DemoSQLDATADisplay\obj\Debug\DemoSQLDATADisplay.pdb

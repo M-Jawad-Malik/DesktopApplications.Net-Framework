@@ -1,0 +1,15 @@
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\SMSTOMOBILE.exe.config
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\SMSTOMOBILE.exe
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\SMSTOMOBILE.pdb
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.exe
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.pdb
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\GSMCommServer.dll
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\GSMCommShared.dll
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\GSMCommunication.dll
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\bin\Debug\PDUConverter.dll
+C:\Users\Muhammad Jawad\source\repos\SMSTOMOBILE\SMSTOMOBILE\obj\Debug\SMSTOMOBILE.csproj.CopyComplete

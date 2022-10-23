@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script language="javascript">
+
+        function setBackgroundColor() {
+            var res = prompt("Enter Color Name")
+            document.getElementById("body").bgColor = res;
+
+        }
+        function settextColor() {
+            var res = prompt("Enter Text Color Name")
+            document.getElementById("h1").style.color = res;
+
+        }
+        function setBackgroundImg(img) {
+            var a = document.getElementById("body");
+            a.style.backgroundImage = "url('" + img + "')";
+            a.style.backgroundRepeat = "no-repeat"
+            a.style.backgroundPosition="center center"
+            a.style.backgroundSize="600px 200px"
+        }
+        function changeImg(imgsrc) {
+            document.getElementById("pic").src = imgsrc
+        }
+    </script>
+</head>
+<body id="body" onload="setBackgroundColor()">
+    <h1 id="h1" onclick="settextColor()">Hello</h1>
+    <input value="Change Body Bkgrnd" type="button" onclick="setBackgroundImg('../img/download.jpg')"/><br />
+    <img src="../img/flower.jpg" id="pic" onmousemove="changeImg('../img/snake.jpg')" onmouseout="changeImg('../img/flower.jpg')" />
+</body>
+</html>

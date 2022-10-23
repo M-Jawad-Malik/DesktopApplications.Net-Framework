@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Restaurant_Application.exe" version="1.0.0.1" publicKeyToken="8eee61c8c7595b5c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="restaurant_food_hamburger__6614.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Restaurant_Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Restaurant_Application.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.dll" size="353280">
+      <assemblyIdentity name="MetroFramework" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wsEtMbSETineMVlPyWMqNypVNjHeCgoEyK+RZo43z0k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Design.dll" size="16896">
+      <assemblyIdentity name="MetroFramework.Design" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CkqWCC4ldn5GlwM2SbFsdqZS4SB1eizsq4CSrQ1xa2U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Fonts.dll" size="672256">
+      <assemblyIdentity name="MetroFramework.Fonts" version="1.4.0.0" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yEOGmqylE1wtRylphfNcccqK9EMSiNBNSBxORsyT7iY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Restaurant_Application.exe" size="3045864">
+      <assemblyIdentity name="Restaurant_Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>y69uXKIy2rCT8fD3yJLsLRO5tumVuBzYZzYRTYB8R5A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Restaurant_Application.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="restaurant_food_hamburger__6614.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qQD6oJnwKqT+fXNY0R46ipF7wRXAD1EDYFCFa/foaY8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=UNKNOWN\Muhammad Jawad" issuerKeyHash="140ae6d612ead400e273729e4340d8a6fbbd3810" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fG5GPVtOroz+DLY3EGuNoEQPttENTnR5Tc1ALN5uo90=</DigestValue></Reference></SignedInfo><SignatureValue>GdVSVWYzbG+ozZxRsPH89OawMY5eJDkpKlx46eYZF9nLauYsuxyvbLOBTwY73xcscDDkxAvU9eC0ul5HcA7PFYqlHA/BefekHoRZfTvDE/eABhFKPONgQckzXOiWiSTittquakfx2wrcBW36XEA0wKhVcKYONaLolGQFKoJJuuk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ssASKJBP4lPxYJQ22Fcgr/F9e/S5fatb7C22N6XdjFzwEDEyls39KYxU4+DJrVpO6Gal+KPM6Peo3eEZFsNKtM/UhK6xvjTYGL90IVwH9Tu4oGKrEkw6xO9iORG8XyvQ8uxweY5dPaRla6E2WdwIKixSv3dfrDbduAQ698K2RuU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dda36ede2c40cd4d79744e0dd1b60f44a08d6b1037b60cfe8cae4e5b3d466e7c" Description="" Url=""><as:assemblyIdentity name="Restaurant_Application.exe" version="1.0.0.1" publicKeyToken="8eee61c8c7595b5c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=UNKNOWN\Muhammad Jawad</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>08n9x7MralL5D+iAdu+eIxflc1omsJ4K9XzIG9j4Z7g=</DigestValue></Reference></SignedInfo><SignatureValue>SBe4t3oWzMTPo42iDmINMYRwDoWImO7MkWLmOyW1S+YRvRhcfOvzF5ahpdmNEwEsZEDErH8+TOvJyvt0/FE96oj94iecj5lWeM2Hh4zaFOmqsnhSY+eDgKnQ8CUWR8oLg0vXNLUU34nX1nONhRZmSjT1C49q7UN0Qyyl9hPzj74=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ssASKJBP4lPxYJQ22Fcgr/F9e/S5fatb7C22N6XdjFzwEDEyls39KYxU4+DJrVpO6Gal+KPM6Peo3eEZFsNKtM/UhK6xvjTYGL90IVwH9Tu4oGKrEkw6xO9iORG8XyvQ8uxweY5dPaRla6E2WdwIKixSv3dfrDbduAQ698K2RuU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQboJyT6xtH5hEvc9zg2H6fzANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwAVQBOAEsATgBPAFcATgBcAE0AdQBoAGEAbQBtAGEAZAAgAEoAYQB3AGEAZDAeFw0yMDA3MjkxNzEyMzBaFw0yMTA3MjkyMzEyMzBaMDcxNTAzBgNVBAMeLABVAE4ASwBOAE8AVwBOAFwATQB1AGgAYQBtAG0AYQBkACAASgBhAHcAYQBkMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCywBIokE/iU/FglDbYVyCv8X179Ll9q1vsLbY3pd2MXPAQMTKWzf0pjFTj4MmtWk7oZqX4o8zo96jd4RkWw0q0z9SErrG+NNgYv3QhXAf1O7igYqsSTDrE72I5EbxfK9Dy7HB5jl09pGVroTZZ3AgqLFK/d1+sNt24BDr3wrZG5QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFWsCnXoMvX1iLeVvF4xNruEyQjPew0LOLjoZRLLN89LXOA764qYi1eqJxErLVN3NgWEWScfa/M0Eq82JSjrIV/AMu47SEex8mgS9fxNEWlygcK1gJyFSMyZIv/rvadNUyzSdTXRzWvXAlkwPuWbzq+2+tLU9kutCDUlLCPPUeeL</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

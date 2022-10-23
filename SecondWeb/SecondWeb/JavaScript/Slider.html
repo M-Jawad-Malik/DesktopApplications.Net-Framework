@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../css/sliderstyles.css" type="text/css" />
+    <meta charset="utf-8" />
+    <title></title>
+    <script  language="javascript">
+        var imgNum = 0;
+        function changeImg(classname,num) {
+            var a = document.getElementsByClassName(classname);
+            imgNum = num;
+            var b = document.getElementById("numbering")
+            b.innerHTML = imgNum + 1 + " / 6"
+            var c = document.getElementById("titleImgs")
+            c.innerHTML = a[0].getAttribute("alt")
+           var src = a[0].getAttribute("src")
+            document.getElementById("bigImg").src = src
+        }
+        function move(inc_dec) {
+            if (imgNum >= 0 && imgNum<=5) {
+                imgNum += inc_dec;
+                if (imgNum < 0) {
+                    imgNum = 5;
+                }
+                if (imgNum > 5) {
+                    imgNum = 0;
+                }
+            }
+            var b = document.getElementById("numbering")
+            b.innerHTML = imgNum + 1 + " / 6"
+            var c = document.getElementById("titleImgs")
+            var a = document.getElementsByClassName("imgs");
+            c.innerHTML = a[imgNum].getAttribute("alt")
+            var src = a[imgNum].getAttribute("src")
+            document.getElementById("bigImg").src = src
+            
+
+        }
+      
+    </script>
+</head>
+<body >
+    <section class="mainSection">
+
+        <div id="numbering">1 / 6</div>
+        <div class="bigImage">
+
+            <img id="bigImg" src="../img/nature1.jpg" style="width:100%">
+        </div>
+        <a class="leftnav" onclick="move(-1)">&#10094;</a>
+        <a class="rightnav" onclick="move(1)">&#10095;</a>
+
+
+        <div class="smallerImgsContainer">
+            <div class="smallerImgs">
+                <img class="imgs img1" src="../img/nature1.jpg" style="width:100%" onclick="changeImg('imgs img1',0)" alt="Mountain with greenry">
+            </div>
+            <div class="smallerImgs">
+                <img class="imgs img2" src="../img/nature2.jpg" style="width:100%" onclick="changeImg('imgs img2',1)" alt="A Tree">
+            </div>
+            <div class="smallerImgs">
+                <img class="imgs img3" src="../img/nature3.jpg" style="width:100%" onclick="changeImg('imgs img3',2)" alt="A lake">
+            </div>
+            <div class="smallerImgs">
+                <img class="imgs img4" src="../img/nature4.jpg" style="width:100%" onclick="changeImg('imgs img4',3)" alt="Red Flower">
+            </div>
+            <div class="smallerImgs">
+                <img class="imgs img5" src="../img/nature5.jpg" style="width:100%" onclick="changeImg('imgs img5',4)" alt="Mountian">
+            </div>
+            <div class="smallerImgs">
+                <img class="imgs img6" src="../img/nature6.jpg" style="width:100%" onclick="changeImg('imgs img6',5)" alt="White Flowers">
+            </div>
+        </div>
+        <div id="titleImgs">Mountain with greenry</div>
+    </section>  
+</body>
+</html>

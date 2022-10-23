@@ -1,0 +1,13 @@
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.exe
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.deps.json
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.runtimeconfig.json
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.runtimeconfig.dev.json
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.dll
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\bin\Debug\netcoreapp3.1\S_Day_Pro.pdb
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.AssemblyInfoInputs.cache
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.AssemblyInfo.cs
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.dll
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.pdb
+C:\Users\Muhammad Jawad\source\repos\S_Day_Pro\S_Day_Pro\obj\Debug\netcoreapp3.1\S_Day_Pro.genruntimeconfig.cache

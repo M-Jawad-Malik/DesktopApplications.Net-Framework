@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script language="JavaScript">
+
+        function onChange() {
+          var a= prompt("Paragraph Changed")
+        }
+        function onLoad() {
+           prompt("Page Loaded")
+        }
+        function onClick() {
+            document.getElementById("para").innerHTML ="onClick Button Clicked";
+        }
+        function onMouseOver() {
+            document.getElementById("para").innerHTML = "you are hovering mouse over onMouseButton btn ";
+
+        }
+        function onMouseOut() {
+            var a = prompt("Please Enter a name")
+            document.write("Value: ", a, "\n")
+        }
+        function getname() {
+            var a = prompt("Please Enter a name")
+            document.write("Value: ", a, "\n")
+        }
+        document.getElementById("demo").innerHTML = Math.PI;
+    </script>
+</head>
+<body onload="onLoad()">
+    <p id="para" onchange="onChange()">Hello</p>
+    <button id="b" >onChange</button>
+    <button id="b" onclick="onClick()">onclick</button>
+    <button id="b" onmouseover="onMouseOver()" onmouseout="onMouseOut()">onmouseover&onMouseout</button>
+
+</body>
+</html>

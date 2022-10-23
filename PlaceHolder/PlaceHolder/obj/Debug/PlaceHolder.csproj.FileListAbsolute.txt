@@ -1,0 +1,11 @@
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.exe.config
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.exe
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.pdb
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.exe
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.pdb
+C:\Users\Muhammad Jawad\source\repos\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.Datetimepicker.resources

@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\bin\Debug\Email_Ver.exe.config
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\bin\Debug\Email_Ver.exe
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\bin\Debug\Email_Ver.pdb
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.exe
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.pdb
+C:\Users\Muhammad Jawad\source\repos\Email_Ver\Email_Ver\obj\Debug\Email_Ver.csproj.AssemblyReference.cache

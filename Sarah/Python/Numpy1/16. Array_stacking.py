@@ -1,0 +1,11 @@
+import numpy as np
+x=np.array([1,2,3,4,5,6,7])
+y=np.array([11,22,34,56,78,89,109])
+arr=np.stack((x,y))
+print(arr)
+arr=np.vstack((x,y))
+arr3=np.hstack((x,y))
+arr4=np.dstack((x,y))
+print(arr)
+print(arr3)
+print(arr4)

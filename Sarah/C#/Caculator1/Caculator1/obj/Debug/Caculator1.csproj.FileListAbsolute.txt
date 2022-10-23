@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\bin\Debug\Caculator1.exe.config
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\bin\Debug\Caculator1.exe
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\bin\Debug\Caculator1.pdb
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.exe
+C:\Users\Muhammad Jawad\source\repos\Caculator1\Caculator1\obj\Debug\Caculator1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\bin\Debug\LoadingPage1.exe.config
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\bin\Debug\LoadingPage1.exe
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\bin\Debug\LoadingPage1.pdb
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.exe
+C:\Users\Muhammad Jawad\source\repos\LoadingPage1\LoadingPage1\obj\Debug\LoadingPage1.pdb

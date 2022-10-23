@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\bin\Debug\FormConnectivity.exe.config
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\bin\Debug\FormConnectivity.exe
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\bin\Debug\FormConnectivity.pdb
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.csproj.AssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.exe
+C:\Users\Muhammad Jawad\source\repos\FormConnectivity\FormConnectivity\obj\Debug\FormConnectivity.pdb

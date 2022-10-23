@@ -1,0 +1,15 @@
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\DATAGRIDVIEW.exe.config
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\DATAGRIDVIEW.exe
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\DATAGRIDVIEW.pdb
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.exe
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.pdb
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Jawad\source\repos\DATAGRIDVIEW\DATAGRIDVIEW\obj\Debug\DATAGRIDVIEW.csproj.CopyComplete

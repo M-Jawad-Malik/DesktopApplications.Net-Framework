@@ -1,0 +1,7 @@
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\bin\Debug\My_First_CS_Pro.exe.config
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\bin\Debug\My_First_CS_Pro.exe
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\bin\Debug\My_First_CS_Pro.pdb
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\obj\Debug\My_First_CS_Pro.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\obj\Debug\My_First_CS_Pro.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\obj\Debug\My_First_CS_Pro.exe
+C:\Users\Muhammad Jawad\source\repos\My_First_CS_Pro\My_First_CS_Pro\obj\Debug\My_First_CS_Pro.pdb

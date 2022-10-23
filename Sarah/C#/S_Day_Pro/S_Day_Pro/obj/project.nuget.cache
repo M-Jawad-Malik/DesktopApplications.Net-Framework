@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLN2NBa9LRVMMzUaV2JVwzHUjxN4jkMy26MBJrx565oNj5sBsFf/ZOSNVBp35EHez45zDfeCSY+sRN7PQ4UGCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad Jawad\\source\\repos\\Sarah\\C#\\S_Day_Pro\\S_Day_Pro\\S_Day_Pro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Jawad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

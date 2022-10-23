@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="js/chat.js"></script>
+    <link href="chat/css/bootstrap.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+  
+</head>
+<body>
+    <script src="chat/js/popper.min.js"></script>
+    <script src="chat/js/jquery-3.6.0.js"></script>
+    <script src="chat/js/bootstrap.min.js"></script>
+    <script src="chat/js/bootstrap.js"></script>
+
+    <div class="dropdown">
+        <Button class="dropdown-toggle btn-primary" data-toggle="dropdown" href="#">
+            HEllo
+        </Button>
+        <ul class="dropdown-menu" style="z-index:1;">
+            <li href="#" class="dropdown-item">New Chat</li>
+            <li href="#" id="signOutLink" onClick="signIn()" class="dropdown-item">Sign In</li>
+            <li href="#" id="signInLink" onClick="signOut()" class="dropdown-item" style="display:none;">Sign Out</li>
+        </ul>
+    </div>
+
+</body>
+
+</html>

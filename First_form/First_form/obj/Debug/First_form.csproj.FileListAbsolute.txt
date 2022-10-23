@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\bin\Debug\First_form.exe.config
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\bin\Debug\First_form.exe
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\bin\Debug\First_form.pdb
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.exe
+C:\Users\Muhammad Jawad\source\repos\First_form\First_form\obj\Debug\First_form.pdb

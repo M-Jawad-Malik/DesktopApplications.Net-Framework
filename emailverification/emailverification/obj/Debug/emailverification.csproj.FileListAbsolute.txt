@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\bin\Debug\emailverification.exe.config
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\bin\Debug\emailverification.exe
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\bin\Debug\emailverification.pdb
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.csproj.AssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.exe
+C:\Users\Muhammad Jawad\source\repos\emailverification\emailverification\obj\Debug\emailverification.pdb

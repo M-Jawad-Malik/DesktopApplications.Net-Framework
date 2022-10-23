@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\bin\Debug\TableLayoutPanel.exe.config
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\bin\Debug\TableLayoutPanel.exe
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\bin\Debug\TableLayoutPanel.pdb
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.exe
+C:\Users\Muhammad Jawad\source\repos\TableLayoutPanel\TableLayoutPanel\obj\Debug\TableLayoutPanel.pdb

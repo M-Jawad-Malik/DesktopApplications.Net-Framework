@@ -1,0 +1,11 @@
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\bin\Debug\Pass_Data_OneForm_ToOther.exe.config
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\bin\Debug\Pass_Data_OneForm_ToOther.exe
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\bin\Debug\Pass_Data_OneForm_ToOther.pdb
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.csprojAssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.Form2.resources
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.exe
+C:\Users\Muhammad Jawad\source\repos\Pass_Data_OneForm_ToOther\Pass_Data_OneForm_ToOther\obj\Debug\Pass_Data_OneForm_ToOther.pdb

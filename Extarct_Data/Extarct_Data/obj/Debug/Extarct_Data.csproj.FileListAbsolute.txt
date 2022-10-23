@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\bin\Debug\Extarct_Data.exe.config
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\bin\Debug\Extarct_Data.exe
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\bin\Debug\Extarct_Data.pdb
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.exe
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.pdb
+C:\Users\Muhammad Jawad\source\repos\Extarct_Data\Extarct_Data\obj\Debug\Extarct_Data.csprojAssemblyReference.cache

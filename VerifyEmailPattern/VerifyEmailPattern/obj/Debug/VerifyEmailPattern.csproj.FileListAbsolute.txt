@@ -1,0 +1,10 @@
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\bin\Debug\VerifyEmailPattern.exe.config
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\bin\Debug\VerifyEmailPattern.exe
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\bin\Debug\VerifyEmailPattern.pdb
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.csproj.AssemblyReference.cache
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.Form1.resources
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.Properties.Resources.resources
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.csproj.GenerateResource.cache
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.exe
+C:\Users\Muhammad Jawad\source\repos\VerifyEmailPattern\VerifyEmailPattern\obj\Debug\VerifyEmailPattern.pdb

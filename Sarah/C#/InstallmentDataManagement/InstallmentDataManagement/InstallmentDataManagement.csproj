@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18B6E3F0-58A1-440F-8710-DC1CE39C7D27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>InstallmentDataManagement</RootNamespace>
+    <AssemblyName>InstallmentDataManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Muhammad Jawad\Desktop\Kalsoom\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>en-US</TargetCulture>
+    <ProductName>Installment Data Management App.</ProductName>
+    <PublisherName>Toddler IT</PublisherName>
+    <ApplicationRevision>21</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>12FE872D0D675D4F8189D384C35019F13F026BEB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>InstallmentDataManagement_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>software_time_management_daily_sheet_calendar_app_icon_142239 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllCustomerRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllCustomerRec.Designer.cs">
+      <DependentUpon>AllCustomerRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackupPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BackupPanel.Designer.cs">
+      <DependentUpon>BackupPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BikeregPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BikeregPanel.Designer.cs">
+      <DependentUpon>BikeregPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BikeRegRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BikeRegRec.Designer.cs">
+      <DependentUpon>BikeRegRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BikeRegRecDis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BikeRegRecDis.Designer.cs">
+      <DependentUpon>BikeRegRecDis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Calculator.Designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreditAc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CreditAc.Designer.cs">
+      <DependentUpon>CreditAc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CusSponRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CusSponRec.Designer.cs">
+      <DependentUpon>CusSponRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerPanel.Designer.cs">
+      <DependentUpon>CustomerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerRecord.Designer.cs">
+      <DependentUpon>CustomerRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerReg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerReg.Designer.cs">
+      <DependentUpon>CustomerReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerReg2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerReg2.Designer.cs">
+      <DependentUpon>CustomerReg2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyExpenditure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DailyExpenditure.Designer.cs">
+      <DependentUpon>DailyExpenditure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DebitAc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DebitAc.Designer.cs">
+      <DependentUpon>DebitAc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelBikeRegRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelBikeRegRec.Designer.cs">
+      <DependentUpon>DelBikeRegRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelCusAllRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelCusAllRec.Designer.cs">
+      <DependentUpon>DelCusAllRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelCusRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelCusRec.Designer.cs">
+      <DependentUpon>DelCusRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelDebRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelDebRec.Designer.cs">
+      <DependentUpon>DelDebRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelExpsRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelExpsRec.Designer.cs">
+      <DependentUpon>DelExpsRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelMonInstallRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelMonInstallRec.Designer.cs">
+      <DependentUpon>DelMonInstallRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelProPurRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DelProPurRec.Designer.cs">
+      <DependentUpon>DelProPurRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Expenses.Designer.cs">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDataSet.cs">
+      <DependentUpon>formDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="formDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>formDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Homepg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homepg.Designer.cs">
+      <DependentUpon>Homepg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPg.Designer.cs">
+      <DependentUpon>LoginPg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainPg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainPg.Designer.cs">
+      <DependentUpon>mainPg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyInstallment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MonthlyInstallment.Designer.cs">
+      <DependentUpon>MonthlyInstallment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewPro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewPro.Designer.cs">
+      <DependentUpon>NewPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OwnerPanel.Designer.cs">
+      <DependentUpon>OwnerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="picBoxprob.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProPur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProPur.Designer.cs">
+      <DependentUpon>ProPur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PurchaseRec.Designer.cs">
+      <DependentUpon>PurchaseRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RACIADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RACIADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Restore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Restore.Designer.cs">
+      <DependentUpon>Restore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SalesPanel.Designer.cs">
+      <DependentUpon>SalesPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SalesRec.Designer.cs">
+      <DependentUpon>SalesRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockPanel.Designer.cs">
+      <DependentUpon>StockPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockRec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StockRec.Designer.cs">
+      <DependentUpon>StockRec.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllCustomerRec.resx">
+      <DependentUpon>AllCustomerRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackupPanel.resx">
+      <DependentUpon>BackupPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BikeregPanel.resx">
+      <DependentUpon>BikeregPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BikeRegRec.resx">
+      <DependentUpon>BikeRegRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BikeRegRecDis.resx">
+      <DependentUpon>BikeRegRecDis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditAc.resx">
+      <DependentUpon>CreditAc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CusSponRec.resx">
+      <DependentUpon>CusSponRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerPanel.resx">
+      <DependentUpon>CustomerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerRecord.resx">
+      <DependentUpon>CustomerRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerReg.resx">
+      <DependentUpon>CustomerReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerReg2.resx">
+      <DependentUpon>CustomerReg2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyExpenditure.resx">
+      <DependentUpon>DailyExpenditure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DebitAc.resx">
+      <DependentUpon>DebitAc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelBikeRegRec.resx">
+      <DependentUpon>DelBikeRegRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelCusAllRec.resx">
+      <DependentUpon>DelCusAllRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelCusRec.resx">
+      <DependentUpon>DelCusRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelDebRec.resx">
+      <DependentUpon>DelDebRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelExpsRec.resx">
+      <DependentUpon>DelExpsRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelMonInstallRec.resx">
+      <DependentUpon>DelMonInstallRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelProPurRec.resx">
+      <DependentUpon>DelProPurRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expenses.resx">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepg.resx">
+      <DependentUpon>Homepg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPg.resx">
+      <DependentUpon>LoginPg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainPg.resx">
+      <DependentUpon>mainPg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyInstallment.resx">
+      <DependentUpon>MonthlyInstallment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPro.resx">
+      <DependentUpon>NewPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerPanel.resx">
+      <DependentUpon>OwnerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ProPur.resx">
+      <DependentUpon>ProPur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseRec.resx">
+      <DependentUpon>PurchaseRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restore.resx">
+      <DependentUpon>Restore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesPanel.resx">
+      <DependentUpon>SalesPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesRec.resx">
+      <DependentUpon>SalesRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockPanel.resx">
+      <DependentUpon>StockPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockRec.resx">
+      <DependentUpon>StockRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="formDataSet.xsc">
+      <DependentUpon>formDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="formDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>formDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="formDataSet.xss">
+      <DependentUpon>formDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InstallmentDataManagement_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RACIADataSet.xsc">
+      <DependentUpon>RACIADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RACIADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RACIADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RACIADataSet.xss">
+      <DependentUpon>RACIADataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="software_time_management_daily_sheet_calendar_app_icon_142239 %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
